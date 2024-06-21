@@ -1,2 +1,1 @@
-# Million-Dollar-Post
-A simple Django Blog website.
+# A simple Django Blog website 
